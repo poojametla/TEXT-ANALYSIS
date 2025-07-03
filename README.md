@@ -14,4 +14,3 @@ Strings,
 Classes and objects.
 
 
-Let's consider a real-life scenario where you are analyzing customer feedback for a product. You have a large data set of customer reviews in the form of strings, and you want to extract useful information from them using the three identified tasks:¶
